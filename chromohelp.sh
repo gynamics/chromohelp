@@ -1,5 +1,3 @@
-#!/bin/sh
-
 # let's decorate plain text with colors -- in regexp :(
 chromohelp() {
   sed \
